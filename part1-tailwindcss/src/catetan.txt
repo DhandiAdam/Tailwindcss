@@ -1,0 +1,11 @@
+npm install -i -D tailwindcss postcss autoprefixer
+
+sehabis kelar mendonwload npm langkah selanjutnya
+
+npx tailwindcss init
+
+setelah donwload membuat file yaitu main.css
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
